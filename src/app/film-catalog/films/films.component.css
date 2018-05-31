@@ -10,9 +10,11 @@ img {
 
 mat-card-content p:first-child {
   overflow: hidden;
-  text-overflow: ellipsis;
-  height: 100px;
+  white-space: nowrap;
+  text-overflow: ellipsis;  
 }
+
+
 
 
 
