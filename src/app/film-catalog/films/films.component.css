@@ -48,7 +48,24 @@ mat-card-content p:first-child {
 
 }
 
+.info {
+  padding: 2%;
+  position: relative;
+}
 
+h2 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.year {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.info p {
+  font-size: 0.85vw;
+}
 
 
 
