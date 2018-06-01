@@ -1,12 +1,10 @@
 .example-card {
     max-width: 400px;
-    
-
   }
 
-img {
+/* img {
   width: 90%;
-}
+} */
 
 mat-card-content p:first-child {
   overflow: hidden;
@@ -14,8 +12,23 @@ mat-card-content p:first-child {
   text-overflow: ellipsis;  
 }
 
+.films {
+  padding: 5%;
+}
+
+.block {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+}
 
 
 
 
-  div {color: red}
+
+
+
+
+
