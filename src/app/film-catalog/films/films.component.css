@@ -67,6 +67,18 @@ h2 {
   font-size: 0.85vw;
 }
 
+.btn-block {
+  width: 100% !important;
+  position: absolute;
+  bottom: 5px;
+  left: 0;
+  display: flex;
+}
+
+button {
+  font-size: .7vw;
+  margin: auto;
+}
 
 
 
